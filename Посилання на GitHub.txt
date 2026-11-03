@@ -1,0 +1,23 @@
+﻿Головна гілка:
+https://github.com/On1-kode/-/tree/main
+
+ПР-37:
+https://github.com/On1-kode/-/tree/pr-37
+
+ПР-42:
+https://github.com/On1-kode/-/tree/pr-42
+
+ПР-46:
+https://github.com/On1-kode/-/tree/pr-46
+
+ПР-47:
+https://github.com/On1-kode/-/tree/pr-47
+
+ПР-51:
+https://github.com/On1-kode/-/tree/pr-51
+
+ПР-53:
+https://github.com/On1-kode/-/tree/pr-53
+
+ПР-54:
+https://github.com/On1-kode/-/tree/pr-54
