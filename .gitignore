@@ -3,3 +3,7 @@ bin/
 obj/
 *.user
 *.suo
+.work/
+.dotnet/
+/Практичні/
+/Практичні.zip
