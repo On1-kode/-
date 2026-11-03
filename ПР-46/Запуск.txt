@@ -1,0 +1,10 @@
+Відкрийте PostService.Server.csproj і PostService.WindowsApp.csproj у Visual Studio з підтримкою .NET 8 та Windows Forms.
+Спочатку запустіть PostService.Server, потім PostService.WindowsApp.
+Адреса сервера: http://localhost:5080.
+
+Запуск із термінала з папки ПР-46 у двох окремих вікнах:
+dotnet run --project PostService.Server
+dotnet run --project PostService.WindowsApp
+
+Запити для перевірки сервера наведено у postings.rest.
+Для перегляду технічних подробиць глобальної помилки запускайте клієнт у режимі Debug у Visual Studio та відкрийте вікно Output / Debug.
